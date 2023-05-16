@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arnabhalder0101
-- 👀 I’m interested in programming/Coding stuffs 
-- 🌱 I’m currently learning Python language
+- 👋 Hi, I’m Arnab;
+- 👀 I’m interested in programming/Coding stuffs;
+- 🌱 I’m currently learning Python language, C, CSS etc. 
 - 💞️ I’m looking to collaborate on Increasing knowledge and building websites using html, css & js. Wanna learn and grow together.
 - 📫 How to reach me, My email id - arnabhal02@gmail.com
 
